@@ -632,7 +632,8 @@ This project strengthened both my SQL fluency and my ability to translate raw da
 data-science-job-analysis/
 ├── assets/
 │   ├── 1_top_paying_roles.png
-│   └── 2_top_paying_roles_skills.png
+│   ├── 2_top_paying_roles_skills.png
+│   └── banner.png
 ├── data/
 │   ├── company_dim.csv
 │   ├── job_postings_fact.csv
@@ -649,6 +650,7 @@ data-science-job-analysis/
 │   ├── 8_remote_vs_onsite_salary.sql
 │   ├── 9_skill_co_occurrence.sql
 │   └── 10_monthly_hiring_trend.sql
+├── table_creation.sql
 └── README.md
 ```
 
